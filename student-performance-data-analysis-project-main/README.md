@@ -421,10 +421,10 @@ We extend our sincere gratitude to:
 
 Have questions or want to collaborate? Reach out to us:
 
-- **Creator**: Malak Zaidi
-- **GitHub**: [malakzaidi](https://github.com/malakzaidi)
-- **Repository**: [Student Performance Data Analysis Project](https://github.com/malakzaidi/student-performance-data-analysis-project)
-- **Email**: [malakzaidi815@gmail.com](mailto:malakzaidi815@gmail.com)
+- **Creator**: Hafsa Barhrhouj
+- **GitHub**: [Hafsa-Brh](https://github.com/Hafsa-Brh)
+- **Repository**: [Student Performance Data Analysis Project](https://github.com/Hafsa-Brh/student-performance-data-analysis-project)
+- **Email**: [hafsabarouj@gmail.com](mailto:hafsabarouj@gmail.com)
 
 ---
 
